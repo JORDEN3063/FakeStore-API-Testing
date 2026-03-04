@@ -19,5 +19,5 @@ API testing of an e-commerce backend using Postman.
 
 ## How to Run
 1. Import collection in Postman
-2. Set environment base_url
+2. Set environment FS_URL
 3. Run collection runner
